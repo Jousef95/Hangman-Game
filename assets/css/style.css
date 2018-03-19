@@ -1,0 +1,38 @@
+body{
+    background: url("../images/knight.jpg");
+}
+
+section{
+    margin-right: 50%;
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+section img{
+    background-color: #fff;
+}
+
+aside{
+    margin-left: 50%;
+    background-color: #fff;
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+article{
+    margin-right: 50%;
+    height: 150px;
+    background-color: #fff;
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+#medieval{
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 72px;
+    text-align: center;
+}
